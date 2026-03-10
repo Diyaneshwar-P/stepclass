@@ -15,8 +15,8 @@ public class UC6 {
     public static String[] getPPattern() {
         return new String[] {
             " ****** ",
-            " ** ** ",
-            " ** ** ",
+            " **  ** ",
+            " **  ** ",
             " ****** ",
             " ** ",
             " ** ",
